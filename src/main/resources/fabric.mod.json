@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "crystal-souls",
+	"version": "${version}",
+	"name": "Crystal Souls",
+	"description": "This mod adds items related to souls.",
+	"authors": [
+		"HackFight"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/crystal-souls/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.hackfight.crystalsouls.CrystalSouls"
+		],
+		"client": [
+			"net.hackfight.crystalsouls.CrystalSoulsClient"
+		],
+		"fabric-datagen": [
+			"net.hackfight.crystalsouls.CrystalSoulsDataGenerator"
+		]
+	},
+	"mixins": [
+		"crystal-souls.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.0",
+		"minecraft": "~1.20.2",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
