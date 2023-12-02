@@ -11,6 +11,6 @@ public class CrystalSouls implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
-		LOGGER.info("Initializing Crystal Souls!");
+		LOGGER.info("Initializing Crystal Souls");
 	}
 }
