@@ -1,5 +1,8 @@
 {
-  "item.crystal-souls.crystalized_soul": "Âme Cristallisée",
+  "item.crystal-souls.crystallised_soul": "Âme Cristallisée",
+  "item.crystal-souls.blank_runestone": "Rune vide",
 
-  "itemgroup.crystalized_souls": "Âme Cristallisées"
+  "itemgroup.crystallised_souls": "Âme Cristallisées",
+
+  "block.crystal-souls.crystallised_soul_ore": "Minerai d'Âmes cristallisées"
 }

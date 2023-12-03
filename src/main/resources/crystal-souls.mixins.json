@@ -1,6 +1,6 @@
 {
 	"required": true,
-	"package": "net.hackfight.crystalsouls.mixin",
+	"package": "ch.hackfight.crystalsouls.mixin",
 	"compatibilityLevel": "JAVA_17",
 	"mixins": [
 		"ExampleMixin"

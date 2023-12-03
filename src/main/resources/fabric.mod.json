@@ -5,7 +5,8 @@
 	"name": "Crystal Souls",
 	"description": "This mod adds items related to souls.",
 	"authors": [
-		"HackFight"
+		"HackFight",
+		"Nopeable"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
@@ -16,13 +17,13 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"net.hackfight.crystalsouls.CrystalSouls"
+			"ch.hackfight.crystalsouls.CrystalSouls"
 		],
 		"client": [
-			"net.hackfight.crystalsouls.CrystalSoulsClient"
+			"ch.hackfight.crystalsouls.CrystalSoulsClient"
 		],
 		"fabric-datagen": [
-			"net.hackfight.crystalsouls.CrystalSoulsDataGenerator"
+			"ch.hackfight.crystalsouls.CrystalSoulsDataGenerator"
 		]
 	},
 	"mixins": [

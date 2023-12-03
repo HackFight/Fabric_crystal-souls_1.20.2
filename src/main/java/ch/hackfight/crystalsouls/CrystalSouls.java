@@ -1,9 +1,10 @@
-package net.hackfight.crystalsouls;
+package ch.hackfight.crystalsouls;
 
 import net.fabricmc.api.ModInitializer;
 
-import net.hackfight.crystalsouls.item.ModItemGroups;
-import net.hackfight.crystalsouls.item.ModItems;
+import ch.hackfight.crystalsouls.block.ModBlocks;
+import ch.hackfight.crystalsouls.item.ModItemGroups;
+import ch.hackfight.crystalsouls.item.ModItems;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -18,5 +19,7 @@ public class CrystalSouls implements ModInitializer {
 
 		ModItemGroups.registerItemGroups();
 		ModItems.registerModitems();
+
+		ModBlocks.registerModBlocks();
 	}
 }

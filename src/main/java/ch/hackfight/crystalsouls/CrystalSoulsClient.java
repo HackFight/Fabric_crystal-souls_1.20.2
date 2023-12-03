@@ -1,4 +1,4 @@
-package net.hackfight.crystalsouls;
+package ch.hackfight.crystalsouls;
 
 import net.fabricmc.api.ClientModInitializer;
 

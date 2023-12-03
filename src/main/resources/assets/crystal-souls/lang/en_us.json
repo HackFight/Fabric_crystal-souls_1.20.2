@@ -1,5 +1,8 @@
 {
-  "item.crystal-souls.crystalized_soul": "Crystalized Soul",
+  "item.crystal-souls.crystallised_soul": "Crystallised Soul",
+  "item.crystal-souls.blank_runestone": "Blank Runestone",
 
-  "itemgroup.crystalized_souls": "Crystalized Souls"
+  "itemgroup.crystallised_souls": "Crystallised Souls",
+
+  "block.crystal-souls.crystallised_soul_ore": "Crystallised Soul Ore"
 }

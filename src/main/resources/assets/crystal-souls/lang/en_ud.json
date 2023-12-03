@@ -1,5 +1,8 @@
 {
-  "item.crystal-souls.crystalized_soul": "lnoS pǝzᴉlɐʇsʎɹƆ",
+  "item.crystal-souls.crystallised_soul": "lnoS pǝsᴉllɐʇsʎɹƆ",
+  "item.crystal-souls.blank_runestone": "ǝuoʇsǝunᴚ ʞuɐlᗺ",
 
-  "itemgroup.crystalized_souls": "slnoS pǝzᴉlɐʇsʎɹƆ"
+  "itemgroup.crystallised_souls": "slnoS pǝsᴉllɐʇsʎɹƆ",
+
+  "block.crystal-souls.crystallised_soul_ore": "ǝɹO lnoS pǝsᴉllɐʇsʎɹƆ"
 }

@@ -1,5 +1,8 @@
 {
-  "item.crystal-souls.crystalized_soul": "Spooky shineeee",
+  "item.crystal-souls.crystallised_soul": "Spoopy Scawy Soul",
+  "item.crystal-souls.blank-runestone": "Empty rock",
 
-  "itemgroup.crystalized_souls": "Spooky shineeees"
+  "itemgroup.crystallised_souls": "Spoopy Scawy Souls",
+
+  "block.crystal-souls.crystallised_soul_ore": "Spoopy Scawy Blok"
 }
