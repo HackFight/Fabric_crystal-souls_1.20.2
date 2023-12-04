@@ -1,5 +1,6 @@
 package ch.hackfight.crystalsouls;
 
+import ch.hackfight.crystalsouls.world.gen.ModWorldGeneration;
 import net.fabricmc.api.ModInitializer;
 
 import ch.hackfight.crystalsouls.block.ModBlocks;
@@ -21,5 +22,7 @@ public class CrystalSouls implements ModInitializer {
 		ModItems.registerModitems();
 
 		ModBlocks.registerModBlocks();
+
+		ModWorldGeneration.generateModWorldGen();
 	}
 }

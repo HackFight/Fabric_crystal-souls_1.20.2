@@ -1,6 +1,6 @@
-// 1.20.2	2023-12-03T00:07:37.0878515	Crystal Souls/Model Definitions
+// 1.20.2	2023-12-03T23:16:17.3071983	Crystal Souls/Model Definitions
 8a36ea0ff5cf6060c60ede4da9de0ec76faf325c assets\crystal-souls\models\item\blank_runestone.json
 4597bf9160dd4fed6cab59c485896285d73885f6 assets\crystal-souls\models\item\crystallised_soul.json
 16509a4eecb9f2bf27a3e471c565dd8e79c10a12 assets\crystal-souls\blockstates\crystallised_soul_ore.json
-e96b031304c3662e40e0fb98a5d9027e9f459b72 assets\crystal-souls\models\block\crystallised_soul_ore.json
 346a33357fbe8ee7d034bc477b2dd9d8e5019602 assets\crystal-souls\models\item\crystallised_soul_ore.json
+e96b031304c3662e40e0fb98a5d9027e9f459b72 assets\crystal-souls\models\block\crystallised_soul_ore.json
